@@ -1,0 +1,93 @@
+.input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+    
+}
+.border{
+    border: none;
+    border-bottom: solid 2px;
+    width: 400px;
+    margin: auto;
+    outline: none;
+}
+.green{
+    color: green;
+    text-align: center;
+}
+.orange{
+    color: orange;
+    text-align: center;
+}
+.button{
+    background-color: #009988;
+    display: flex;
+    color: white;
+    border: none;
+    
+    justify-content: center;
+    width: 400px;
+    margin: auto;
+    border-radius: 3px;
+}
+.h4{
+    text-align: center;
+    justify-content: center;
+    line-height: 35px;
+    display: flex;
+    font-size: 20px;
+    flex-direction: column;
+    align-items: center;
+   height: 50px;
+   margin-top: 50px;
+    
+}
+span{
+    align-items: center;
+    display: ;
+    justify-content: center;
+}
+.strong{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    text-align: center;
+    font-size: ;
+}
+.left{
+    margin-right: 0px;
+    text-decoration: none;
+color: rgb(0, 150, 136);
+}
+.google{
+    width: 200px;
+    height: 40px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border: solid 1px;
+    border-radius: 3px;
+}
+.inputs{
+   
+    display: flex;
+  
+    margin-left:579px ;
+    outline: none;
+    text-decoration: none;
+    margin-bottom: none;
+}
+.petit{
+    font-size: 13px;
+}
+a{
+
+
+}
